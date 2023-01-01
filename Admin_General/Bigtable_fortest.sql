@@ -1,5 +1,9 @@
 -- Create Table with same structure as ALL_TABLES from Oracle Dictionary
 -- This one I took from Tom Kyte asktom
+-- easy method to test
+--
+--
+--
 
 create table bigtab
 as

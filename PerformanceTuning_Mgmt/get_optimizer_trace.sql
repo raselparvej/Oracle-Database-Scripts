@@ -1,6 +1,10 @@
 --
 -- given a sql_id and child number, generate an optimizer trace
 --
+--
+-- 
+--
+
 set echo off feed off head off
 
 undef sql_id
